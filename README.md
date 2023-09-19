@@ -5,11 +5,11 @@
 ### 🧶 🐱 Recent Activity
 
 ```
+🗣 Commented on #4 in searchableguy/whiz
+🗣 Commented on #4 in searchableguy/whiz
 🗣 Commented on #2 in searchableguy/whiz
 💪 Opened PR #12664 in unlock-protocol/unlock
 ❗️ Closed issue #12266 in unlock-protocol/unlock
-🎉 Merged PR #12583 in unlock-protocol/unlock
-💪 Opened PR #12648 in unlock-protocol/unlock
 ```
 
 ### 📫 Reach out
