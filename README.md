@@ -5,11 +5,11 @@
 ### 🧶 🐱 Recent Activity
 
 ```
+🗣 Commented on #12784 in unlock-protocol/unlock
 ❗️ Closed issue #4 in searchableguy/whiz
 🗣 Commented on #4 in searchableguy/whiz
 ❗️ Closed issue #8 in searchableguy/whiz
 🗣 Commented on #8 in searchableguy/whiz
-🍴 Forked searchableguy/spirals from steven-tey/spirals
 ```
 
 ### 📫 Reach out
