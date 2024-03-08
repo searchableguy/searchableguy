@@ -5,11 +5,11 @@
 ### 🧶 🐱 Recent Activity
 
 ```
+🗣 Commented on #13001 in unlock-protocol/unlock
 ❗️ Closed issue #728 in supabase/auth-helpers
 ❗️ Opened issue #728 in supabase/auth-helpers
 💪 Opened PR #13182 in unlock-protocol/unlock
 ❗️ Closed issue #12835 in unlock-protocol/unlock
-❗️ Closed issue #13001 in unlock-protocol/unlock
 ```
 
 ### 📫 Reach out
